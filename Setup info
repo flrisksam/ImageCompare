@@ -1,0 +1,6 @@
+Step 1: Configure the folder structure with Java 1.8
+Step 2: Include below Jar or include using Maven
+Jar's required.
+ashot-1.5.3
+hamcrest-all-1.3
+selenium-server-4.10.0
